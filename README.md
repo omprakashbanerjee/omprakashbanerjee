@@ -1,4 +1,4 @@
-Hi, I’m @omprakashbanerjee, interested in Embedded firmware development Prototyping and PCB designing.
+Hi, I’m @omprakashbanerjee, interested in Embedded firmware/Hardware development Prototyping and PCB designing.
 
 <!---
 omprakashbanerjee/omprakashbanerjee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
